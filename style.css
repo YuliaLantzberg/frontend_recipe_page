@@ -85,8 +85,7 @@ body {
 }
 
 .prep-time__list,
-.ingredients__list,
-.instructions__list {
+.ingredients__list {
 	margin: 2rem;
 	list-style-position: outside;
 	line-height: 2;
@@ -97,7 +96,7 @@ body {
 }
 .instructions__list {
 	padding-left: 2rem;
-	line-height: 1;
+	line-height: 1.5;
 }
 
 .prep-time__el span,
