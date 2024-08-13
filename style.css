@@ -74,6 +74,7 @@ body {
 .prep-time {
 	width: 100%;
 	padding: 2rem;
+	padding-bottom: 0;
 	background-color: hsl(330, 100%, 98%);
 	border-radius: 1rem;
 }
@@ -94,7 +95,6 @@ body {
 
 .instructions__list {
 	padding-left: 2rem;
-	line-height: 1.5;
 }
 
 .prep-time__el span,
