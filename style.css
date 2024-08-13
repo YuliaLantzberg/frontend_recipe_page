@@ -113,7 +113,7 @@ li::marker {
 .ingredients,
 .instructions,
 .nutrition {
-	margin: 3rem 0;
+	margin: 2rem 0;
 }
 
 .mid-title {
@@ -135,7 +135,7 @@ li p {
 }
 
 .instruction p {
-	padding-bottom: 1rem;
+	padding-bottom: 1.5rem;
 }
 .nutrition__description {
 	margin-bottom: 2rem;
