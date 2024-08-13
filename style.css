@@ -134,8 +134,8 @@ li p {
 	padding-left: 2rem;
 }
 
-.instruction p {
-	padding-bottom: 1rem;
+.instruction:not(:last-child) {
+	padding-bottom: 0.5rem;
 }
 .nutrition__description {
 	margin-bottom: 2rem;
