@@ -64,8 +64,6 @@ body {
 .header__description {
 	color: hsl(30, 5%, 47%);
 	font-weight: 500;
-	letter-spacing: 0.01rem;
-	font-size: 1.7rem;
 }
 
 .attribution {
