@@ -132,9 +132,11 @@ hr {
 
 li p {
 	padding-left: 2rem;
-	padding-bottom: 1rem;
 }
 
+.instruction p {
+	padding-bottom: 1rem;
+}
 .nutrition__description {
 	margin-bottom: 2rem;
 }
